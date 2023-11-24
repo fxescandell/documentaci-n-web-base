@@ -1,1 +1,7 @@
-# documentaci-n-web-base
+---
+description: Descripción inicial
+---
+
+# Documentación web base
+
+Contenido de la página inicial
